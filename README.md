@@ -9,8 +9,8 @@ Dashboards
 
 | Dashboard | Domain | Dataset | Description |
 |---|---|---|---|
-| [Client Intelligence Dashboard](#) | Banking | 3,000 clients | Loyalty tiers, risk profiles, income bands, and portfolio balances across a retail banking client base |
-| [Customer Behaviour Dashboard] (#) | Business |3900 clients | Average purchase, Customer subscription status, Revenue by Age group|
+| Client Intelligence Dashboard | Banking | 3,000 clients | Loyalty tiers, risk profiles, income bands, and portfolio balances across a retail banking client base |
+| Customer Behaviour Dashboard | Business |3900 clients | Average purchase, Customer subscription status, Revenue by Age group|
 
 *More dashboards added as they are completed.*
 
